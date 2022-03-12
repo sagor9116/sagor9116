@@ -4,7 +4,7 @@
 ## I'm Sagor Roy 👨
 <!--Introduction -->
 
-I am a **Front-End Web Developer** 👨‍💻 with the ability to adapt in both self-starting and collaborate environment while staying focused on achieving high quality results under strict deadlines. Eager to tackle web development/design challenges to achieve lasting impacts on user experience. I love to build websites and web applications using React.js. I have built projects using HTML5, CSS3, JavaScript, React.js, and React.js’s one of the fastest frameworks Next.js and Gatsby.js. Do :star2: my repository if you find my projects interesting. 🎐 ✌️ 🎐
+I am a **Front-End Web Developer** 👨‍💻 with the ability to adapt in both self-starting and collaborative environments while staying focused on achieving high-quality results under strict deadlines. Eager to tackle web development/design challenges to achieve lasting impacts on user experience. I love to build websites and web applications using React.js. I have built projects using HTML5, CSS3, JavaScript, React.js, and React.js’s one of the fastest frameworks Next.js and Gatsby.js. Do :star2: my repository if you find my projects interesting. 🎐 ✌️ 🎐
 
 <!-- Working GIF -->
 <img src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif" alt="dev_object" align="right" width="500" height="250" />
